@@ -6,12 +6,10 @@ print("1.DE3SPEDIR")
 print("2.SALIR")
 
 while(i != 0):
-    i = int(input(""))
+    i = int(input("Ingrese una opcion: "))
     if(i == 0):
-        break
+        print("Hola")
     elif(i == 1):
-        print("")
+        print("Despedir")
     elif(i == 2):
-        print("")
-    else:
-        print("")
+        break
