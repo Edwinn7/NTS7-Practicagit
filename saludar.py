@@ -10,8 +10,6 @@ while(i != 0):
     if(i == 0):
         break
     elif(i == 1):
-        print("")
+        print("Chaoo")
     elif(i == 2):
-        print("")
-    else:
-        print("")
+        break
